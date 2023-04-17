@@ -2274,7 +2274,7 @@ MonoBehaviour:
       m_Action: Bomb
       m_Flags: 0
     m_Flags: 0
-  bombsNumber: 3
+  bombsNumber: 2
 --- !u!1001 &8392271928369018371
 PrefabInstance:
   m_ObjectHideFlags: 0
