@@ -2,5 +2,4 @@
 <br />
 השינוי השני שאני בחרתי להוסיף היא האפשרות להשתמש בפצצה(פעמיים לכל היותר) שתעלים/תהרוג את כל האוייבים/צלחות הקיימות כרגע.
 <br />
-<br />
 link to the game:https://daniel-zaken.itch.io/02-prefabs-triggers-improve
